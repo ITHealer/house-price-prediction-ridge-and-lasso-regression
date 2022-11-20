@@ -1,5 +1,7 @@
 # House Price Prediction using Advanced Regression Techniques
 
+# Author: Ung Minh Hoài
+
 [Kaggle dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview). 
 
 Phân tích bao gồm EDA mở rộng và một số phương pháp xử lý được áp dụng cho các giá trị còn thiếu trong tập dữ liệu.
