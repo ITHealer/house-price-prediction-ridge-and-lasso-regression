@@ -1,4 +1,4 @@
-# House Price Prediction using Advanced Regression Techniques
+# House Price Prediction using Advanced Regression Techniques (Accuracy ~= 90%)
 
 # Author: Ung Minh Hoài
 
