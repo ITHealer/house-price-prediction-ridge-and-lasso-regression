@@ -1,9 +1,9 @@
 # House Price Prediction using Advanced Regression Techniques
 
-This notebook is based on a [Kaggle dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview). 
+[Kaggle dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview). 
 
-The analysis includes extensive EDA and several treatments applied for missing values in the dataset. 
+Phân tích bao gồm EDA mở rộng và một số phương pháp xử lý được áp dụng cho các giá trị còn thiếu trong tập dữ liệu.
 
-A Linear Regression model is built. It is compared against models built using plain old RFE, and then with models built using Ridge and Lasso regression techniques. 
+Một mô hình hồi quy tuyến tính được xây dựng. Nó được so sánh với các mô hình được xây dựng bằng RFE cũ đơn giản, và sau đó với các mô hình được xây dựng bằng kỹ thuật hồi quy Ridge và Lasso.
 
-I also played around with the model parameters (such as doubling the value of alpha) and also trying out the model with some features removed.  
+Tôi cũng thử với các tham số của mô hình (chẳng hạn như nhân đôi giá trị của alpha) và cũng thử mô hình với một số tính năng bị loại bỏ.
